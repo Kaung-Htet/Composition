@@ -11,7 +11,7 @@ public class Case {
         this.dimensions = dimensions;
     }
 
-    public void pressPowerButton (){
+    public void pressPowerButton() {
         System.out.println("Power button pressed");
     }
 
