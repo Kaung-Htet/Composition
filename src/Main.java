@@ -9,8 +9,8 @@ public class Main {
 
         PC thePC = new PC(theCase, theMonitor, theMotherboard);
 
-        thePC.getMonitor().drawPixelAt(1500, 1200, "red");
-        thePC.getMotherboard().loadProgram("Windows 1.0");
-        thePC.getTheCase().pressPowerButton();
+//        thePC.getMonitor().drawPixelAt(1500, 1200, "red");
+//        thePC.getMotherboard().loadProgram("Windows 1.0");
+//        thePC.getTheCase().pressPowerButton();
     }
 }
